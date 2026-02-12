@@ -1,4 +1,5 @@
 **About Me**
+
 Minecraft-focused developer working with server plugins and Fabric mods, and adittionaly learning Blender, C# and Unity.
 
 I create custom gameplay mechanics, server-side features, and structured systems 
