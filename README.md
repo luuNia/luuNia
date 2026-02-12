@@ -1,16 +1,29 @@
-## Hi there 👋
+**About Me**
+Minecraft-focused developer working with server plugins and Fabric mods, and adittionaly learning Blender, C# and Unity.
 
-<!--
-**luuNia/luuNia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create custom gameplay mechanics, server-side features, and structured systems 
+designed to be clean, scalable, and easy to maintain. 
+I prefer building organized projects instead of quick one-file solutions.
 
-Here are some ideas to get you started:
+## What I Work With
+- Java
+- Fabric API
+- Spigot / Paper
+- C#
+- Lua
+- Blender 3D models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mainly working on..**
+- Custom Minecraft mechanics
+- Server plugins
+- Fabric mods
+- Structured gameplay systems
+- Unity game mechanics
+- Roblox mechanics
+
+You can find my current projects on my modrinth profile and sometimes open-source repositories of my work on GitHub.
+**modrinth.com/user/luuNia**
+
+**Contact**
+Telegram: @luuNia97
+Discord: luunia
